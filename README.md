@@ -1,4 +1,4 @@
-### <samp>&gt; Hi there, I'm <a href="https://www.x.com/@blekkleik" target="_blank">Leik</a> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG95cDlodG0wOW9reDBsOXB3ZHcxenduYTVpdHVianl5N252NGpsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VXTVOXs66A6GANzKLd/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <a href="https://www.x.com/@tattooleik" target="_blank">Leik</a> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG95cDlodG0wOW9reDBsOXB3ZHcxenduYTVpdHVianl5N252NGpsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VXTVOXs66A6GANzKLd/giphy.gif" width="25"> </samp>
 
 <a href="https://www.linkedin.com/in/leik-gullichsen-25a203333/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
 
