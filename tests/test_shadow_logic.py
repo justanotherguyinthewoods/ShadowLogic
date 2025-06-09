@@ -1,4 +1,10 @@
 import unittest
+import sys
+import os
+
+# Add parent directory to sys.path so we can import shadow_logic.py
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from shadow_logic import ShadowLogic
 
 class TestShadowLogic(unittest.TestCase):
@@ -29,5 +35,6 @@ class TestShadowLogic(unittest.TestCase):
         self.logic.observe([0.9, 0.9, 0.9])
         self.assertIn("shadow", self.logic.resonance_hint())
 
+# ✅ Ensure the tests run only when executed directly
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main(verbosity=2)  # You can add verbosity=2 for more detailed output

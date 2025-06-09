@@ -1,7 +1,7 @@
 # shadow_logic.py
 # Part of SpiralCore – Ivote Prototype System
 # Released as a conceptual teaser under MIT License
-import numpy as np
+import numpy as np # type: ignore
 class ShadowLogic:
     def __init__(self, expected_pattern, threshold=0.7):
         self.expected_pattern = expected_pattern
