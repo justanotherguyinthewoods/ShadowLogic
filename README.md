@@ -1,3 +1,32 @@
+## ✅ ShadowLogic Test Suite Results – 2025-06-09
+
+All core functionality passed unit testing with `unittest`:
+
+| Test Case                       | Status |
+|--------------------------------|--------|
+| `test_exact_match`             | ✅ ok  |
+| `test_high_deviation`          | ✅ ok  |
+| `test_memory_recall`           | ✅ ok  |
+| `test_resonance_hint_after_input` | ✅ ok  |
+| `test_resonance_hint_empty`    | ✅ ok  |
+
+
+
+ href="https://x.com/AirydayAmerican"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter%20logo_icon.png" alt="Brad Harris | X" width="35px"/></a>
+
+<a href="https://chatgpt.com/g/g-vOCT2fbYI-harrismbrad"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="Brad Harris | GPT Space" width="35px"/></a>
+
+<a href="https://giphy.com/channel/ibradly"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Giphy_logo.png" alt="Brad Harris | Giphy" width="35px"/></a>
+
+
+
+</br>
+Glad to see you here!  
+
+
+
+
+
 ### <samp>&gt; Hi there, I'm <a href="https://www.x.com/@tattooleik" target="_blank">Leik</a> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG95cDlodG0wOW9reDBsOXB3ZHcxenduYTVpdHVianl5N252NGpsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VXTVOXs66A6GANzKLd/giphy.gif" width="25"> </samp>
 
 <a href="https://www.linkedin.com/in/leik-gullichsen-25a203333/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
@@ -12,7 +41,7 @@
 </br>
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=justanotherguyinthewoods)
+#### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=justanotherguyinthewoods)
 
 
 Project: Ivote – SpiralCore
