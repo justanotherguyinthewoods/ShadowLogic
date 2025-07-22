@@ -1,0 +1,38 @@
+{
+  "name": "shadowlogic",
+  "version": "1.0.0",
+  "description": "All core functionality passed unit testing with `unittest`:",
+  "main": "brforeal2.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "ijest": "npx jest"
+  },
+  "jest": {
+    "testMatch": [
+      "**/tests/**/*.test.js"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarrisMBrad/ShadowLogic.git"
+  },
+  "keywords": [],
+  "author": "Brad Harris",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HarrisMBrad/ShadowLogic/issues"
+  },
+  "homepage": "https://github.com/HarrisMBrad/ShadowLogic#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.28.0",
+    "babel-jest": "^30.0.5",
+    "ijest": "^1.0.7",
+    "jest": "^30.0.4"
+  }
+}
