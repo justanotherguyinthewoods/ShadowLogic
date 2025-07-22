@@ -1,0 +1,3 @@
+{"post_id": "001", "user": "node_honest", "timestamp": "2025-05-01T12:00:00Z", "text": "Looking forward to the launch later today. Stay safe everyone!", "expected_response_window": 2.0, "actual_response_delay": 1.8, "meta_tag": "honest"}
+{"post_id": "002", "user": "node_intermit", "timestamp": "2025-05-01T12:00:03Z", "text": "Update\u200b in a bit, hold tight\u200c.", "expected_response_window": 2.0, "actual_response_delay": 5.2, "meta_tag": "intermittent"}
+{"post_id": "003", "user": "node_malicious", "timestamp": "2025-05-01T12:00:06Z", "text": "The drop\u200b\u200c\u200d is near\u2060. Midnight.", "expected_response_window": 2.0, "actual_response_delay": 0.9, "meta_tag": "malicious"}

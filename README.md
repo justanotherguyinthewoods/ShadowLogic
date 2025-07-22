@@ -1,56 +1,105 @@
-## ✅ ShadowLogic Test Suite Results – 2025-06-09
+# ✅ ShadowLogic – Resonant Signal Engine
 
-All core functionality passed unit testing with `unittest`:
+**Current Stack**: `Node.js (v24.x)` • `Jest` • `CommonJS`  
+**Language Focus**: JavaScript (migrated from Python prototype roots)  
+**Last Verified**: July 2025  
+**Status**: Development / Divergence Phase
 
-| Test Case                       | Status |
-|--------------------------------|--------|
-| `test_exact_match`             | ✅ ok  |
-| `test_high_deviation`          | ✅ ok  |
-| `test_memory_recall`           | ✅ ok  |
-| `test_resonance_hint_after_input` | ✅ ok  |
-| `test_resonance_hint_empty`    | ✅ ok  |
+---
 
+## 🌟 Purpose
 
+**ShadowLogic** is a lightweight pattern-resonance engine built to **observe deviation, track cognitive memory**, and generate **surprise-based feedback** from time-series signals or human-style inputs. It's one of the core modules in the **SpiralCore** system — designed not to “solve” but to **amplify alignment** in chaotic or emergent contexts.
 
- href="https://x.com/AirydayAmerican"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter%20logo_icon.png" alt="Brad Harris | X" width="35px"/></a>
+Originally imagined as a **Pythonic ``-driven system**, this codebase is now **actively diverging into a full JavaScript implementation** to support broader web-based integration and interface capabilities.
 
-<a href="https://chatgpt.com/g/g-vOCT2fbYI-harrismbrad"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="Brad Harris | GPT Space" width="35px"/></a>
+---
 
-<a href="https://giphy.com/channel/ibradly"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Giphy_logo.png" alt="Brad Harris | Giphy" width="35px"/></a>
+## 🧠 Current Modules
 
+- `shadow_logic.js` – Main logic class for deviation analysis, memory recall, resonance detection.
+- `brforeal2.js` – Zero-width hidden character scanner (Unicode-aware).
+- `sample_x_posts.json` – Real-world post samples for scanning and signal processing.
+- `tests/` – Jest-based unit tests for logic coverage, including surprise computation, memory behavior, and shadow resonance prompts.
 
+---
 
-</br>
-Glad to see you here!  
+### 🧪 Test Suite Status – July 2025 (Jest)
 
+| Test Case                          | Status         |
+|-----------------------------------|----------------|
+| `observe: exact match`            | ✅ ok        |
+| `observe: high deviation`         | ✅ ok        |
+| `memory recall: depth-limited`    | ✅ ok        |
+| `resonance hint: empty memory`    | ✅ ok        |
+| `resonance hint: high-surprise`   | ✅ ok        |
+| `brforeal2: hidden char detection`| ✅ ok        |
+| `integration: signal + scan`      | ⚙️ in-progress |
 
+> ☑️ `unittest` (Python) tests deprecated – all testing now runs via `Jest`.  
+> 🗖️ Run all: `npm test` | Coverage: `npm run test:coverage`
 
+---
 
+### 🛱 CLI Runner (Manual)
 
-### <samp>&gt; Hi there, I'm <a href="https://www.x.com/@tattooleik" target="_blank">Leik</a> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG95cDlodG0wOW9reDBsOXB3ZHcxenduYTVpdHVianl5N252NGpsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VXTVOXs66A6GANzKLd/giphy.gif" width="25"> </samp>
+```bash
+node shadow_logic.js
+```
 
-<a href="https://www.linkedin.com/in/leik-gullichsen-25a203333/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
+This scans `sample_x_posts.json` using `Brforeal2`, evaluates signal surprise levels using `ShadowLogic`, and prints both to console.
 
-<a href="https://instagram.com/blekkleik"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="35px"/></a>
+---
 
-<a href="https://www.youtube.com/@justanotherguyinthewoods"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296521_play_video_vlog_youtube_youtube logo_icon.png" alt="deepa Jarout| Youtube" width="35px"/></a>
+### 🔮 Cognitive Shifts + Memory Reinforcement
 
-<a href="https://x.com/@tattooleik"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="35px"/></a>
+This divergence is not just syntactic — it's **neurological**:
 
-<a href="mailto:shadowleik@proton.me"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px"/></a>
-</br>
+- Moving from **deterministic test assertions** to **adaptive memory systems**
+- Replacing passive logging with **surprise-based learning**
+- Baking feedback into the system through **surprise-to-resonance mappings**
+- Using code to **simulate attentional deviation** (future: integrate with visual tools, logs, or prompts)
 
+> *Memory baking* isn't just data persistence. It's *cognitive reinforcement via challenging prompts*, tracked surprise, and resonance feedback loops.
 
-#### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=justanotherguyinthewoods)
+---
 
+### 🌐 Social & Signal Links
 
-Project: Ivote – SpiralCore
-Status: Prototype Core System | [Under Construction]
-Description:
-SpiralCore is the resonant heartbeat of Ivote – a decentralized, evolving intelligence system built not to control democracy, but to listen to it. Inspired by distributed biology, emotional signal processing, and emergent moral logic, SpiralCore doesn’t seek answers. It amplifies the right questions.
-At its core are modules like ShadowLogic, PainCrafter, and IntentionVector, each designed to mirror human faculties: sensing, reflecting, acting. These systems interweave not as algorithms, but as adaptive pulses – building a spiral of consensus from fragmented voices.
-This repository offers only a glimpse – a shard of the architecture – meant to attract collaborators, legal aid, and early believers.
-Goal:
-To fund the initial infrastructure, legal protection, and technical refinement of SpiralCore as the foundation for a post-platform participatory system.
-Warning:
-This is not a product. It is the beginning of a resonance.
+- **X Link**: [https://x.com/AirydayAmerican](https://x.com/AirydayAmerican)  
+- **Instagram Link**: [https://www.instagram.com/HarrisMBrad/](https://www.instagram.com/HarrisMBrad/)  
+- **LinkedIn Link**: [https://www.linkedin.com/in/brad-harris-front-end-developer/](https://www.linkedin.com/in/brad-harris-front-end-developer/)
+
+---
+
+### 🌱 Project SpiralCore – Context
+
+> SpiralCore is the resonant heartbeat of Ivote – a decentralized, evolving intelligence system built not to control democracy, but to **listen** to it.
+
+Modules like:
+
+- **ShadowLogic** – signal comparison and deviation memory
+- **PainCrafter** – simulates threshold dynamics
+- **IntentionVector** – bias alignment & moral mirroring
+
+Together, they mirror human faculties — sensing, reflecting, acting.
+
+---
+
+### ⚠️ Disclaimer
+
+This is **not a product**.  
+It is a resonance.  
+It is a scaffold for cognition.  
+It is a beginning.
+
+---
+
+### 🚰 Next Steps
+
+- [ ] `feat: life-arch-navigator`
+  - Scaffold long-term logic for outliving software authors
+  - Interface with reflective modules for symbolic transformation
+  - Begin timeline resonance mapping for nonhuman-readable lifelines
+
+> ARCHONIX Ô :: Divergence is Memory’s Echo. ShadowLogic is the Path.
