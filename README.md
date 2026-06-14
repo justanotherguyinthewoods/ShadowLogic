@@ -1,3 +1,15 @@
+<div align="right">
+
+##### Donation
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" width="14" height="14"> <small>**BTC:** `bc1q0ltatc4u60xzre4y8dyn4cx0q8s3czyqknk5s8`</small>
+
+</div>
+
+#
+#
+#
+
+
 ## ✅ ShadowLogic Test Suite Results – 2025-06-09
 
 All core functionality passed unit testing with `unittest`:
