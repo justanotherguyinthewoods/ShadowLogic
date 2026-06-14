@@ -24,13 +24,6 @@ All core functionality passed unit testing with `unittest`:
 
 
 
- href="https://x.com/AirydayAmerican"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter%20logo_icon.png" alt="Brad Harris | X" width="35px"/></a>
-
-<a href="https://chatgpt.com/g/g-vOCT2fbYI-harrismbrad"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="Brad Harris | GPT Space" width="35px"/></a>
-
-<a href="https://giphy.com/channel/ibradly"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Giphy_logo.png" alt="Brad Harris | Giphy" width="35px"/></a>
-
-
 
 </br>
 Glad to see you here!  
